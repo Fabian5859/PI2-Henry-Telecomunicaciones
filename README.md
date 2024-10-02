@@ -40,10 +40,10 @@ Para lo anterior se reciben varios Dataset ofrecidos por el **ENACOM** Ente Naci
 - Se realiza un análisis para entender las características de los datos, iniciando por seleccionar el top 5 de provincias con mayor población, para enfocarnos en las provincias con mayor cantidad de clientes potenciales, y sobre estas 5 provincias se analizan otras variables como cantidad de accesos a internet por año y tecnología, accesos a suscripción de TV por cada 100 hogares, accesos a internet por cada 100 hogares. *
   
 - `Selección de herramientas y técnicas`:
- - *Lenguaje Python y librerias*: Se utilizan las librerias Numpy, pandas, mapplotlib, seaborn, sqlalchemy.
- - *Base de datos Postgresql*: Se utiliza Postgresql como motor de base de datos y PgAdmin4 y la terminal de linux como cliente. 
- - *Power BI*: Se elabora en Power BI un Dashboard para presentar al cliente los resultados del análisis. 
- - *Jupyter*: Se utiliza Jupyter Lab para el desarrollo de los notebook. 
+  - *Lenguaje Python y librerias*: Se utilizan las librerias Numpy, pandas, mapplotlib, seaborn, sqlalchemy.
+  - *Base de datos Postgresql*: Se utiliza Postgresql como motor de base de datos y PgAdmin4 y la terminal de linux como cliente. 
+  - *Power BI*: Se elabora en Power BI un Dashboard para presentar al cliente los resultados del análisis. 
+  - *Jupyter*: Se utiliza Jupyter Lab para el desarrollo de los notebook. 
 
 - `Análisis`:
 - Se proponen tres KPIS a la empresa que le permitan medir lo siguiente:
