@@ -56,6 +56,8 @@ Para lo anterior se reciben varios Dataset ofrecidos por el **ENACOM** Ente Naci
    $`KPI = (acceso Fibra en la provincia / total accesos en la provincia ) - (acceso Fibra en la provincia Trimestre anterior / total accesos en la provincia Trimestre anterior)`$
   - Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
     $`KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100`$
+  - Aumentar en una meta de incremento porcentual trimestral establecida para cada una de las 5 provincias (Buenos Aires, Capital Federal, Córdoba, Mendoza, Santa Fe) la suscripción por TV cada 100 hogares. La fórmula es la siguiente:
+    $`KPI = ((Suscripción cada 100 hogares - suscripción cada 100 hogares trimestre anterior ) / suscripción cada 100 hogares trimestre anterior) * 100`$
   
 
 ## Desarollado por 
