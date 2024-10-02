@@ -37,7 +37,7 @@ Para lo anterior se reciben varios Dataset ofrecidos por el **ENACOM** Ente Naci
 - `Limpieza de datos`:
 - La limpieza de los datos se realiza en el notebook 'ETL.ipynb'. Se realiza preprocesamiento de los datos, verificando y eliminando duplicados, gestionando valores nulos y transformando los datos en un formato adecuado para el análisis.
 - `Exploración de datos (EDA)`:
-- Se realiza un análisis para entender las características de los datos, iniciando por seleccionar el top 5 de provincias con mayor población, ya que nos ofrecen una mayor probabilidad de clientes potenciales, y sobre estas 5 provincias se analizan otras variables como cantidad de accesos a internet por año y tecnología, accesos a suscripción de TV por cada 100 hogares, accesos a internet por cada 100 hogares. *
+- Se realiza un análisis para entender las características de los datos, iniciando por seleccionar el top 5 de provincias con mayor población, para enfocarnos en las provincias con mayor cantidad de clientes potenciales, y sobre estas 5 provincias se analizan otras variables como cantidad de accesos a internet por año y tecnología, accesos a suscripción de TV por cada 100 hogares, accesos a internet por cada 100 hogares. *
   
 - `Selección de herramientas y técnicas`:
 - *Lenguaje Python y librerias*: Se utilizan las librerias Numpy, pandas, mapplotlib, seaborn, sqlalchemy.
