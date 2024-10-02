@@ -51,7 +51,7 @@ Para lo anterior se reciben varios Dataset ofrecidos por el **ENACOM** Ente Naci
 - Se identificó una oportunidad de crecimiento en el servicio de suscripción TV en las provincias de Buenos Aires y Capital Federal, las cuales son las presentan menor cantidad de suscripciones por cada 100 hogares, resaltando además que la provincia de Buenos Aires es la que mayor población tiene.
 - Se identificó una oportunidad de crecimiento en el servicio acceso a internet en la provincia de Mendoza, ya que actualmente es la que menor cantidad de suscripciones presenta por cada 100 hogares.
 - Se recomienda a la empresa focalizar la búsqueda de clientes potenciales en la provincia de Mendoza, ya que tiene oportunidad de crecimiento en el servicio de internet y en el servicio de suspcripción de TV.  
-- Se proponen tres KPIS a la empresa que le permitan medir lo siguiente:
+- Se proponen tres KPIS a la empresa que le permitan medir el éxito de su objetivo de crecimiento en sus servicios. 
   - Aumentar en una meta porcentual establecida particularmente para cada una de las 5 provincias (Buenos Aires, Capital Federal, Córdoba, Mendoza, Santa Fe) para el próximo trimestre, el acceso a internet mediante fibra óptica respecto al total de accesos de todas las tecnologías. La fórmula es la siguiente:
    $`KPI = (acceso Fibra en la provincia / total accesos en la provincia ) - (acceso Fibra en la provincia Trimestre anterior / total accesos en la provincia Trimestre anterior)`$
   - Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
