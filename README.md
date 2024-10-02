@@ -29,11 +29,11 @@ Para lo anterior se reciben varios Dataset ofrecidos por el **ENACOM** Ente Naci
 ## Metodología aplicada
 - `Recolección de los datos`:
 - Los datos se obtuvieron de los Dataset ofrecidos por el **ENACOM** Ente Nacional de comunicaciones de Argentina. - [Datasets principales](https://indicadores.enacom.gob.ar/datos-abiertos). Se descargan archivos en formato .xlsx. Para el análisis se seleccionan los siguientes archivos, los cuales están relacionados con nuestras variables de interés que son : la población por provincia, acceso a internet discriminado por año y tecnología, cantidad de suscripción TV por cada 100 hogares. 
-- mapa_conectividad.xlsx
-- Internet.xlsx
-- Television.xlsx
-- Los demás archivos disponibles se descartan porque no está relacionada con nuestras variables de interés. 
-- Las variables a analizar se seleccionan en función del objetivo principal que es orientar a la empresa en brindar una buena calidad del servicio de internet e identificar oportunidades de crecimiento, analizando como opción el servicio de tv por suscripción.  
+ - mapa_conectividad.xlsx
+ - Internet.xlsx
+ - Television.xlsx
+ - Los demás archivos disponibles se descartan porque no está relacionada con nuestras variables de interés. 
+ - Las variables a analizar se seleccionan en función del objetivo principal que es orientar a la empresa en brindar una buena calidad del servicio de internet e identificar oportunidades de crecimiento, analizando como opción el servicio de tv por suscripción.  
 - `Limpieza de datos`:
 - La limpieza de los datos se realiza en el notebook 'ETL.ipynb'. Se realiza preprocesamiento de los datos, verificando y eliminando duplicados, gestionando valores nulos y transformando los datos en un formato adecuado para el análisis.
 - `Exploración de datos (EDA)`:
