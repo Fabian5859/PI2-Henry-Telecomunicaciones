@@ -59,8 +59,8 @@ Para lo anterior se reciben varios Dataset ofrecidos por el **ENACOM** Ente Naci
   
 
 ## Desarollado por 
-** Fabian Gutiérrez **
-Linkedin: https://www.linkedin.com/in/fabian-gutiérrez
+- ** Fabian Gutiérrez **
+- Linkedin: https://www.linkedin.com/in/fabian-gutiérrez
 
 
 
