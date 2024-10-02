@@ -7,6 +7,14 @@ CREATE DATABASE pi2;
 -- Dar permisos al usuario sobre la base de datos
 GRANT ALL PRIVILEGES ON DATABASE pi2 TO pi2_user;
 
+CREATE TABLE kpi_penetracion_suscripciontv (
+    fecha DATE,    
+    provincia VARCHAR(255),
+    suscripcioncada100hogares FLOAT,
+    acceso_anterior FLOAT,    
+    kpi FLOAT
+);
+
 CREATE TABLE kpi_penetracion_fibraoptica (
     fecha DATE,    
     provincia VARCHAR(255),
@@ -15,6 +23,10 @@ CREATE TABLE kpi_penetracion_fibraoptica (
     kpi FLOAT
 );
 
+CREATE TABLE kpi_meta_penetracion_suscripciontv (     
+    provincia VARCHAR(255),      
+    kpi_meta FLOAT
+);
 
 CREATE TABLE kpi_meta_penetracion_fibraoptica (     
     provincia VARCHAR(255),      
