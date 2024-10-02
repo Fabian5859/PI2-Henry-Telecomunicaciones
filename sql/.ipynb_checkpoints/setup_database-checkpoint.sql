@@ -15,12 +15,14 @@ CREATE TABLE kpi_penetracion_suscripciontv (
     kpi FLOAT
 );
 
-CREATE TABLE kpi_penetracion_fibraoptica (
+CREATE TABLE kpi_penetracion_fibra(
     fecha DATE,    
     provincia VARCHAR(255),
-    accesos INTEGER,
-    acceso_anterior INTEGER,    
-    kpi FLOAT
+    accesos_fibra INTEGER,
+    total_accesos INTEGER,
+    acceso_fibraanterior INTEGER,
+    total_accesoanterior INTEGER,
+    kpi_porcentajefibra FLOAT
 );
 
 CREATE TABLE kpi_meta_penetracion_suscripciontv (     
